@@ -18,3 +18,7 @@ Working on Vietnamese speech recognition, natural language processing and applie
 <img src="./assets/skills.svg" alt="Python, PyTorch, FastAPI, Docker, Git and MongoDB" width="326" />
 
 Python · PyTorch · Hugging Face · FastAPI · Docker · Git · MongoDB
+### Achieved
+
+- Third prize Math Geometry, Combinatorics Iran 2022
+- Top 7 – AI Challenge 2026, GDGoC HCMUS 
